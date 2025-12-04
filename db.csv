@@ -1,0 +1,6 @@
+metric,key,value
+total,,1
+level,ERROR,1
+top_error,"Database query failed: syntax error",1
+error_by_hour,10:00,1
+

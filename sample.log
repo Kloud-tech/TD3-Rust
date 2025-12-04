@@ -1,0 +1,10 @@
+2024-01-15 10:30:45 [INFO] Application started
+2024-01-15 10:30:46 [DEBUG] Loading configuration from config.yml
+2024-01-15 10:30:47 [INFO] Database connection established
+2024-01-15 10:31:02 [WARNING] High memory usage detected: 85%
+2024-01-15 10:31:15 [ERROR] Failed to connect to API: timeout
+2024-01-15 10:31:16 [INFO] Retrying API connection...
+2024-01-15 10:31:18 [INFO] API connection successful
+2024-01-15 10:32:00 [ERROR] Database query failed: syntax error
+2024-01-15 10:32:01 [WARNING] Cache miss for key: user_1234
+2024-01-15 10:33:00 [INFO] Processing completed successfully
